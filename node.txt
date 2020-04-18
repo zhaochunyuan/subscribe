@@ -6,3 +6,5 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlNH5paw5Yqg5Z2hIiwNCiAgImFkZCI6ICI0Ny4y
 trojan://900e35a7@alicloud1.chunyuan.monster:443#SG1-🇸🇬
 
 trojan://68b329da@alicloud2.chunyuan.monster:443#SG2-🇸🇬
+
+trojan://da6972a4@aws.chunyuan.monster:443#AWS-🇸🇬
