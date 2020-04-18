@@ -3,4 +3,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkdDUOmmmea4ryIsDQogICJhZGQiOiAidjIuY2h1
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlNH5paw5Yqg5Z2hIiwNCiAgImFkZCI6ICI0Ny4yNDEuMjQuNTIiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICJiNWM3NDkyZS03MzJlLTQzODMtOWE3MC1hYWMzMWExNDE0YWEiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 
 
-trojan://900e35a7@alicloud1.chunyuan.monster:443#新加坡1
+trojan://900e35a7@alicloud1.chunyuan.monster:443#SG1-🇸🇬
+
+trojan://68b329da@alicloud2.chunyuan.monster:443#SG2-🇸🇬
