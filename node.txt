@@ -2,6 +2,8 @@ trojan://admin@1.chunyuan.monster:443#SG1-🇸🇬
 
 trojan://68b329da@alicloud2.chunyuan.monster:443#SG2-🇸🇬
 
+trojan://EZedoIvO@2.chunyuan.monster:443#SG3-🇸🇬
+
 trojan://da6972a4@aws.chunyuan.monster:443#AWS-🇸🇬
 
 ssr://dHIxLjkyOGRkbnMucm9ja3M6Mzg2NTE6YXV0aF9hZXMxMjhfbWQ1OnJjNC1tZDU6aHR0cF9zaW1wbGU6T1RJNFRtVjAvP29iZnNwYXJhbT1kM2QzTG0xcFkzSnZjMjltZEM1amIyMCZwcm90b3BhcmFtPU5EQTRPVFU2Vld0Q04wWTAmcmVtYXJrcz04Si1IdWZDZmg3Y2c1WnlmNklDejVZVzI
