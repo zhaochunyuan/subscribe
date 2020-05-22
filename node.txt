@@ -1,4 +1,4 @@
-trojan://900e35a7@alicloud1.chunyuan.monster:443#SG1-🇸🇬
+trojan://admin@1.chunyuan.monster:443#SG1-🇸🇬
 
 trojan://68b329da@alicloud2.chunyuan.monster:443#SG2-🇸🇬
 
