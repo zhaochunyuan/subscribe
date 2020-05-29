@@ -1,6 +1,6 @@
 trojan://admin@1.chunyuan.monster:443#SG1-🇸🇬
 
-trojan://68b329da@alicloud2.chunyuan.monster:443#SG2-🇸🇬
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlNHMi3wn4e48J+HrCIsDQogICJhZGQiOiAieXVhbi5jaHVueXVhbi5tb25zdGVyIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjQ4NDY4NTBjLWQxNmEtNDExMy1iZTg3LTYyZDA3NzhlMDUwOSIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAieXVhbi5jaHVueXVhbi5tb25zdGVyIiwNCiAgInBhdGgiOiAiLzc0M2QwNTdmLyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
 
 trojan://EZedoIvO@2.chunyuan.monster:443#SG3-🇸🇬
 
